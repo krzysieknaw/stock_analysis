@@ -16,7 +16,7 @@ HTML
 - Opening the file extension ".xlsm" will activate the project.
 - Screenshots are in img folder, three of which appear below.
 - The "docs" folder contains the web page.
-- A brief analysis is here: <a href='https://sherirosalia.github.io/stock_analysis/'>School Days</a>
+- A brief analysis is here: <a href='https://sherirosalia.github.io/stock_analysis/'>Stock Analysis</a>
 
 
 ### Screenshots
